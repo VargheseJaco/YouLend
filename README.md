@@ -13,6 +13,4 @@ Analysis of a flower shop's sales data, highlighting trends within the data to i
 - **DatabaseConnector**: A class for connecting to databases
 - **DataTransform**: A class for transforming columns in a dataframe.
 - **DataFrameInfo**: A class for extracting information about a dataframe 
-- **Plotter**: A class for plotting information from a dataframe
-
 
